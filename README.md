@@ -1,4 +1,4 @@
-# HTML_practice_Codes
+# Animal_pics_webpage
 
 This is an practice Assignment in which a simple web page is created which displays photos of animals!
 
