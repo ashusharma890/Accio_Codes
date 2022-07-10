@@ -1,6 +1,6 @@
 # Animal_pics_webpage
 
-This is an practice Assignment in which a simple web page is created which displays photos of animals!
+This is an practice Assignment in which a simple static web page is created which displays photos of animals!
 
 Images are attached for reference & download purpose as well.
 
