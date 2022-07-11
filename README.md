@@ -8,4 +8,4 @@ HTML code is in index.html file & the CSS styling is done in the style.css file 
 
 
 
-<img width="948" alt="image" src="https://user-images.githubusercontent.com/81765508/177516439-d8ad355a-0b32-47bd-848e-25b642944919.png">
+<img  src="https://user-images.githubusercontent.com/81765508/178315787-bc6ef70d-3016-480a-beb6-d9ee27b8b2f9.png">
